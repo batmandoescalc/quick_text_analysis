@@ -23,6 +23,7 @@ PACKAGES = [
     "openpyxl",
     "pypandoc",
     "pypandoc_binary",
+    "matplotlib",
 ]
 
 
