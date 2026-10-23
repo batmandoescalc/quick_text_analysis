@@ -1,0 +1,1 @@
+Drop text files or Word documents here. For Word documents, run the "convert_doc_to_txt" notebook before running the "explore_bag_of_words" notebook.
