@@ -43,7 +43,7 @@ def main():
     )
     parser.add_argument(
         "--venv",
-        default=".venv",
+        default="text_analysis_env",
         help="Virtual-environment directory (default: .venv).",
     )
     args = parser.parse_args()
