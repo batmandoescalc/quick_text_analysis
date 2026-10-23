@@ -1,7 +1,11 @@
 *.txt
 *.doc
 *.docx
+*.xls
+*.xlsx
 *.pdf
 *.jpg
 *.png
 .DS_Store
+__pycache__
+.venv/*
